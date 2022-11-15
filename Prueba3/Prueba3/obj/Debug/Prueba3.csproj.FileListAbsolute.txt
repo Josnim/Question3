@@ -1,0 +1,8 @@
+C:\Users\josen\OneDrive\Escritorio\Payment Evolution\Prueba3\Prueba3\bin\Debug\Prueba3.exe.config
+C:\Users\josen\OneDrive\Escritorio\Payment Evolution\Prueba3\Prueba3\bin\Debug\Prueba3.exe
+C:\Users\josen\OneDrive\Escritorio\Payment Evolution\Prueba3\Prueba3\bin\Debug\Prueba3.pdb
+C:\Users\josen\OneDrive\Escritorio\Payment Evolution\Prueba3\Prueba3\obj\Debug\Prueba3.csproj.AssemblyReference.cache
+C:\Users\josen\OneDrive\Escritorio\Payment Evolution\Prueba3\Prueba3\obj\Debug\Prueba3.csproj.SuggestedBindingRedirects.cache
+C:\Users\josen\OneDrive\Escritorio\Payment Evolution\Prueba3\Prueba3\obj\Debug\Prueba3.csproj.CoreCompileInputs.cache
+C:\Users\josen\OneDrive\Escritorio\Payment Evolution\Prueba3\Prueba3\obj\Debug\Prueba3.exe
+C:\Users\josen\OneDrive\Escritorio\Payment Evolution\Prueba3\Prueba3\obj\Debug\Prueba3.pdb
